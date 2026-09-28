@@ -2840,6 +2840,9 @@
     "showCurrent": {
       "value": "Strom anzeigen"
     },
+    "showPotential": {
+      "value": "Elektrisches Potential anzeigen"
+    },
     "signed": {
       "value": "Mit Vorzeichen"
     },

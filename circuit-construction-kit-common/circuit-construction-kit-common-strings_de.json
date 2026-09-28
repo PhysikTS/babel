@@ -590,6 +590,10 @@
       }
     ]
   },
+    "showPotential": {
+    "value": "Elektrisches Potential anzeigen",
+    "history": []
+  },
   "signed": {
     "value": "Mit Vorzeichen",
     "history": [
