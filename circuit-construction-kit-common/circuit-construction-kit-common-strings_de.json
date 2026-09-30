@@ -594,6 +594,14 @@
     "value": "Elektrisches Potential anzeigen",
     "history": []
   },
+    "lowPotential": {
+      "value": "niedrig",
+      "history": []
+    },
+    "highPotential": {
+      "value": "hoch",
+      "history": []
+    },
   "signed": {
     "value": "Mit Vorzeichen",
     "history": [

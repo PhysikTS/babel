@@ -2843,6 +2843,12 @@
     "showPotential": {
       "value": "Elektrisches Potential anzeigen"
     },
+    "lowPotential": {
+      "value": "niedrig"
+    },
+    "highPotential": {
+      "value": "hoch"
+    },
     "signed": {
       "value": "Mit Vorzeichen"
     },
